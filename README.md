@@ -5,7 +5,7 @@ My first Github program
 
 # 我的第一个GitHub项目
 
-这是项目 [helloworld](https://github.com/gotgithub/helloworld) ，
+这是项目 [helloworld](https://github.com/WolfIron/helloworld) ，
 欢迎访问。
 
 这个项目的版本库是 **Git格式** ，在 Windows、Linux、Mac OS X
@@ -16,12 +16,12 @@ My first Github program
 
 支持三种访问协议：
 
-* HTTP协议: `https://github.com/gotgithub/helloworld.git` 。
-* Git协议: `git://github.com/gotgithub/helloworld.git` 。
-* SSH协议: `ssh://git@github.com/gotgithub/helloworld.git` 。
+* HTTP协议: `https://github.com/WolfIron/helloworld.git` 。
+* Git协议: `git://github.com/WolfIron/helloworld.git` 。
+* SSH协议: `ssh://git@github.com/WolfIron/helloworld.git` 。
 
 ## 克隆版本库
 
 操作示例：
 
-    $ git clone git://github.com/gotgithub/helloworld.git
+    $ git clone git://github.com/WolfIron/helloworld.git
